@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mentor: MyString
+  staff: MyString
+  startdate: 2014-01-21 09:01:14
+  enddate: 2014-01-21 09:01:14
+  skill: MyString
+  status: MyString
+
+two:
+  mentor: MyString
+  staff: MyString
+  startdate: 2014-01-21 09:01:14
+  enddate: 2014-01-21 09:01:14
+  skill: MyString
+  status: MyString
